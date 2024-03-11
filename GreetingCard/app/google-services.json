@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012068949581",
+    "project_id": "myfitness-25fe9",
+    "storage_bucket": "myfitness-25fe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012068949581:android:c66bc6299f932582da4604",
+        "android_client_info": {
+          "package_name": "com.example.greetingcard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvnpQGUx8FKYSgI33UZj632y6FHYNHJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
